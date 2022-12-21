@@ -1,0 +1,11 @@
+.example-custom-input {
+    background: url("/calendar.svg") no-repeat right;
+    background-size: 20px;
+    width: 240px;
+    height: 24px;
+  }
+  
+  .example-custom-input:focus-visible {
+    border-bottom-color: #b51148;
+    outline: none;
+  }
